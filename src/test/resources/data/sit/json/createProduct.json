@@ -1,0 +1,48 @@
+{
+  "TK_CreateProduct_001_Valid": [
+    {
+      "Description": "Verify create new product success 01",
+      "Id": "Valid-Phone",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "Category": "Điện thoại",
+        "Supplier": "Nikon VietNam",
+        "Code": "AUTO_PRODUCT_VINCENT_",
+        "Unit": "Chiếc",
+        "Name": "Samsung Galaxy S25 - ",
+        "Description": "Smartphone Samsung Galaxy S25 - 128GB, 8GB RAM, 5G, Camera 108MP, Pin 5000mAh - "
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new product success 02",
+      "Id": "Valid-TV",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "Category": "Tivi",
+        "Supplier": "Nikon VietNam",
+        "Code": "AUTO_PRODUCT_VINCENT_",
+        "Unit": "Chiếc",
+        "Name": "Tivi Samsung Ultra 65inch - ",
+        "Description": "Tivi Samsung Ultra 65inch - 4K UHD Smart TV with HDR10+ - "
+      },
+      "detail": {}
+    }
+  ]
+}

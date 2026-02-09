@@ -1,0 +1,73 @@
+{
+  "TK_CreateSupplier_001_Valid": [
+    {
+      "Description": "Verify create new supplier success",
+      "Id": "Valid-01",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "supplierName": "Tran Khanh Huy",
+        "supplierPhone": "09",
+        "supplierContact": "Cau Giay",
+        "supplierCountry": "Viet Nam",
+        "supplierCity": "Ha Noi",
+        "supplierAddress": "Xuan Thuy, Cau Giay",
+        "supplierPostalCode": "77777"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new supplier success",
+      "Id": "Valid-02",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "supplierName": "Vu Mai Ly",
+        "supplierPhone": "09",
+        "supplierContact": "Nguyen Van Cu",
+        "supplierCountry": "Viet Nam",
+        "supplierCity": "Ha Noi",
+        "supplierAddress": "Long Bien, Ha Noi",
+        "supplierPostalCode": "88888"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new supplier success",
+      "Id": "Valid-03",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "supplierName": "Tran Khanh Chi",
+        "supplierPhone": "09",
+        "supplierContact": "Doan Dao",
+        "supplierCountry": "Viet Nam",
+        "supplierCity": "Hung Yen",
+        "supplierAddress": "Phu Cu, Hung Yen",
+        "supplierPostalCode": "99999"
+      },
+      "detail": {}
+    }
+  ]
+}

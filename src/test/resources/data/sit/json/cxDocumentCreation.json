@@ -1,0 +1,88 @@
+{
+  "CX_Document_Create_Menu_001_Valid": [
+    {
+      "Description": "Kiểm tra tạo mới menu thành công",
+      "Id": "Valid-Menu-001",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "DocumentParent": "111",
+        "DocumentTitle": "labIT_Demo_Menu",
+        "DocumentAuthor": "Thắm Viettel",
+        "DocumentStatus": "Published"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Kiểm tra tạo mới menu sai Author",
+      "Id": "Valid-Menu-002",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "DocumentParent": "111",
+        "DocumentTitle": "labIT_Demo_Menu",
+        "DocumentAuthor": "Thắm Viette",
+        "DocumentStatus": "Published"
+      },
+      "detail": {}
+    }
+  ],
+  "CX_Document_Create_Text_001_Valid": [
+    {
+      "Description": "Kiểm tra tạo mới menu thành công",
+      "Id": "Valid-Menu-001",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "DocumentParent": "111",
+        "DocumentTitle": "labIT_Demo_Menu",
+        "DocumentAuthor": "Thắm Viettel",
+        "DocumentStatus": "Published",
+        "TemplateName": "GIỚI THIỆU DỊCH VỤ"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Kiểm tra tạo mới menu sai Author",
+      "Id": "Valid-Menu-002",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "DocumentParent": "111",
+        "DocumentTitle": "labIT_Demo_Menu",
+        "DocumentAuthor": "Thắm Viettel",
+        "DocumentStatus": "Published",
+        "TemplateName": "Viettel Telecom"
+      },
+      "detail": {}
+    }
+  ]
+}

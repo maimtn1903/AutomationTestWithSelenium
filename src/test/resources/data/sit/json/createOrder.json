@@ -1,0 +1,64 @@
+{
+  "TK_CreateOrder_001_Valid": [
+    {
+      "Description": "Verify create new order success 01",
+      "Id": "Valid-01",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "Phone": "097",
+        "ShipperPhone": "098",
+        "Email": "auto01_",
+        "Address": "Test Address"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new product success 02",
+      "Id": "Valid-02",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "Phone": "092",
+        "ShipperPhone": "093",
+        "Email": "auto02_",
+        "Address": "Test Address"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new order success 03",
+      "Id": "Valid-03",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "Phone": "096",
+        "ShipperPhone": "091",
+        "Email": "auto03_",
+        "Address": "Test Address"
+      },
+      "detail": {}
+    }
+  ]
+}

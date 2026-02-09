@@ -1,0 +1,244 @@
+{
+  "TK_CreateCustomer_002_Invalid": [
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-01",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Nguyen Van An",
+        "customerPhone": "09123",
+        "customerEmail": "an.nguyen@gmail.com",
+        "customerContact": "Le Loi",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Le Loi, Hoan Kiem",
+        "customerPostalCode": "10000"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-02",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Tran Thi Hoa",
+        "customerPhone": "09abc45678",
+        "customerEmail": "hoa.tran@gmail.com",
+        "customerContact": "Nguyen Trai",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Nguyen Trai, Thanh Xuan",
+        "customerPostalCode": "11100"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-03",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Le Minh Quan",
+        "customerPhone": "09876@3210",
+        "customerEmail": "quan.le@gmail.com",
+        "customerContact": "Cau Giay",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Tran Dang Ninh, Cau Giay",
+        "customerPostalCode": "11300"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-04",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Pham Thu Trang",
+        "customerPhone": "",
+        "customerEmail": "trang.pham@gmail.com",
+        "customerContact": "Kim Ma",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Kim Ma, Ba Dinh",
+        "customerPostalCode": "11000"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-05",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Do Duc Hung",
+        "customerPhone": "            ",
+        "customerEmail": "hung.do@gmail.com",
+        "customerContact": "My Dinh",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "My Dinh, Nam Tu Liem",
+        "customerPostalCode": "12000"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-06",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Vu Thi Lan",
+        "customerPhone": "090000000",
+        "customerEmail": "lan.vu@gmail.com",
+        "customerContact": "Giai Phong",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Giai Phong, Hoang Mai",
+        "customerPostalCode": "11800"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-07",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Bui Quang Huy",
+        "customerPhone": "09999999999",
+        "customerEmail": "huy.bui@gmail.com",
+        "customerContact": "Long Bien",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Ngoc Lam, Long Bien",
+        "customerPostalCode": "11400"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-08",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Nguyen Thi Mai",
+        "customerPhone": "abcdefghij",
+        "customerEmail": "mai.nguyen@gmail.com",
+        "customerContact": "Tay Ho",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Xuan Dieu, Tay Ho",
+        "customerPostalCode": "11200"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-09",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Hoang Anh Tuan",
+        "customerPhone": "0955555555555555555558",
+        "customerEmail": "tuan.hoang@gmail.com",
+        "customerContact": "Ha Dong",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Quang Trung, Ha Dong",
+        "customerPostalCode": "12100"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new customer success",
+      "Id": "Valid-10",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "customerName": "Pham Ngoc Linh",
+        "customerPhone": "095555555555555555555559",
+        "customerEmail": "linh.pham@gmail.com",
+        "customerContact": "Dong Da",
+        "customerCountry": "Viet Nam",
+        "customerCity": "Ha Noi",
+        "customerAddress": "Ton Duc Thang, Dong Da",
+        "customerPostalCode": "11500"
+      },
+      "detail": {}
+    }
+  ]
+}

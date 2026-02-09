@@ -1,0 +1,34 @@
+{
+  "LabIT_Order_01": [],
+  "LabIT_Order_02": [
+    {
+      "customer": "LINH CHI",
+      "phone": "0987654321",
+      "email": "vn.labit@gmail.com",
+      "address": "123 Láng, Hà Nội",
+      "employee": "Mai Quỳnh Chi"
+    },
+    {
+      "customer": "KHANH LY",
+      "phone": "0987654321",
+      "email": "vn.labit@gmail.com",
+      "address": "123 Láng, Hà Nội",
+      "employee": "Trần Ngọc Linh"
+    },
+    {
+      "customer": "KHANH LY",
+      "phone": "0098391070",
+      "email": "vn.maimnt@gmail.com",
+      "address": "45 ng, Hà Nội",
+      "employee": "Trần Ngọc Linh"
+    },
+    {
+      "customer": "KHANH LY",
+      "phone": "091695959",
+      "email": "vn.hungaksd@gmail.com",
+      "address": "12asdasdasd3 Láng, Hà Nội",
+      "employee": "Trần Ngọc Linh"
+    }
+  ],
+  "LabIT_Order_03": []
+}

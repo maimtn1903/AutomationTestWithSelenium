@@ -1,0 +1,61 @@
+{
+  "TK_CreateCategory_001_Valid": [
+    {
+      "Description": "Verify create new category success",
+      "Id": "Valid-01",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "categoryName": "categoryName_MaiMai",
+        "categoryStatus": "Hoạt động",
+        "categoryDescription": "Test"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new category success",
+      "Id": "Valid-02",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "categoryName": "categoryName_Hung",
+        "categoryStatus": "Hoạt động",
+        "categoryDescription": "Test"
+      },
+      "detail": {}
+    },
+    {
+      "Description": "Verify create new category success",
+      "Id": "Valid-03",
+      "Category": "REGRESSION",
+      "Executed": true,
+      "AccountTest": "",
+      "TestScenario": "",
+      "Preconditions": "",
+      "master": {
+        "config": {
+          "isFill": [],
+          "isVerify": []
+        },
+        "categoryName": "categoryName_Chi",
+        "categoryStatus": "Hoạt động",
+        "categoryDescription": "Test"
+      },
+      "detail": {}
+    }
+  ]
+}
